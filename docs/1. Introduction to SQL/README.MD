@@ -6,3 +6,4 @@
 - [1.4 Устанавливаем PostgreSQL](./1.4%20Install%20PostgreSQL)
 - [1.5 Типы данных в PostgreSQL](./1.5%20Data%20types%20in%20PostgreSQL)
 - [1.6 Создание БД](./1.6%20Create%20first%20database)
+- [1.7 Создание таблиц](./1.7%20Create%20tables)

@@ -12,3 +12,4 @@
   - [1.4 Устанавливаем PostgreSQL](./docs/1.%20Introduction%20to%20SQL/1.4%20Install%20PostgreSQL)
   - [1.5 Типы данных в PostgreSQL](./docs/1.%20Introduction%20to%20SQL/1.5%20Data%20types%20in%20PostgreSQL)
   - [1.6 Создание БД](./docs/1.%20Introduction%20to%20SQL/1.6%20Create%20first%20database)
+  - [1.7 Создание таблиц](./docs/1.%20Introduction%20to%20SQL/1.7%20Create%20tables)
