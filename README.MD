@@ -30,4 +30,5 @@
   - [2.8 Операторы AND, OR](./docs/2.%20Simple%20Queries%20with%20SELECT/2.8%20Operators%20AND,%20OR)
   - [2.9 Оператор BETWEEN](./docs/2.%20Simple%20Queries%20with%20SELECT/2.9%20Operator%20BETWEEN)
   - [2.10 Операторы IN, NOT IN](./docs/2.%20Simple%20Queries%20with%20SELECT/2.10%20Operators%20IN,%20NOT%20IN)
-  - [2.10 Оператор ORDER BY](./docs/2.%20Simple%20Queries%20with%20SELECT/2.11%20Operator%20ORDER%20BY)
+  - [2.11 Оператор ORDER BY](./docs/2.%20Simple%20Queries%20with%20SELECT/2.11%20Operator%20ORDER%20BY)
+  - [2.12 Операторы MIN, MAX, AVG](docs/2.%20Simple%20Queries%20with%20SELECT/2.12%20Operators%20MIN,%20MAX,%20AVG,%20SUM)

@@ -11,3 +11,4 @@
 - [2.9 Оператор BETWEEN](./2.9%20Operator%20BETWEEN)
 - [2.10 Операторы IN, NOT IN](./2.10%20Operators%20IN,%20NOT%20IN)
 - [2.11 Оператор ORDER BY](./2.11%20Operator%20ORDER%20BY)
+- [2.12 Операторы MIN, MAX, AVG](2.12%20Operators%20MIN,%20MAX,%20AVG,%20SUM)
