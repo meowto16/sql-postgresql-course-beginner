@@ -9,3 +9,4 @@
 - [2.7 Оператор WHERE](./2.7%20Operator%20WHERE)
 - [2.8 Операторы AND, OR](./2.8%20Operators%20AND,%20OR)
 - [2.9 Оператор BETWEEN](./2.9%20Operator%20BETWEEN)
+- [2.10 Операторы IN, NOT IN](./2.10%20Operators%20IN,%20NOT%20IN)

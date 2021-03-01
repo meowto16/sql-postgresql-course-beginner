@@ -2,6 +2,8 @@
 
 - Автор: Илья Фофанов
 - Ссылка на Udemy: https://www.udemy.com/course/bestpostgres/
+- Дополнительные материалы, использованные при создании конспекта:
+  - [2sql.ru](http://2sql.ru/)
 
 ## Навигация (конспект)
 
@@ -27,3 +29,4 @@
   - [2.7 Оператор WHERE](./docs/2.%20Simple%20Queries%20with%20SELECT/2.7%20Operator%20WHERE)
   - [2.8 Операторы AND, OR](./docs/2.%20Simple%20Queries%20with%20SELECT/2.8%20Operators%20AND,%20OR)
   - [2.9 Оператор BETWEEN](./docs/2.%20Simple%20Queries%20with%20SELECT/2.9%20Operator%20BETWEEN)
+  - [2.10 Операторы IN, NOT IN](./docs/2.%20Simple%20Queries%20with%20SELECT/2.10%20Operators%20IN,%20NOT%20IN)
