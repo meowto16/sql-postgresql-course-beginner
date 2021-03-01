@@ -33,3 +33,4 @@
   - [2.11 Оператор ORDER BY](./docs/2.%20Simple%20Queries%20with%20SELECT/2.11%20Operator%20ORDER%20BY)
   - [2.12 Операторы MIN, MAX, AVG](./docs/2.%20Simple%20Queries%20with%20SELECT/2.12%20Operators%20MIN,%20MAX,%20AVG,%20SUM)
   - [2.13 Домашняя работа 2. Простые выборки](./docs/2.%20Simple%20Queries%20with%20SELECT/2.13%20Homework%202)
+  - [2.14 Домашняя работа 2. Простые выборки (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.14%20Homework%202%20(answers))
