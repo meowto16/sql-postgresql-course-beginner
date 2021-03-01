@@ -8,3 +8,4 @@
 - [2.6 Домашняя работа 1. (ответы)](./2.6%20Homework%201%20(answers))
 - [2.7 Оператор WHERE](./2.7%20Operator%20WHERE)
 - [2.8 Операторы AND, OR](./2.8%20Operators%20AND,%20OR)
+- [2.9 Оператор BETWEEN](./2.9%20Operator%20BETWEEN)

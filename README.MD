@@ -26,3 +26,4 @@
   - [2.6 Домашняя работа 1 (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.6%20Homework%201%20(answers))
   - [2.7 Оператор WHERE](./docs/2.%20Simple%20Queries%20with%20SELECT/2.7%20Operator%20WHERE)
   - [2.8 Операторы AND, OR](./docs/2.%20Simple%20Queries%20with%20SELECT/2.8%20Operators%20AND,%20OR)
+  - [2.9 Оператор BETWEEN](./docs/2.%20Simple%20Queries%20with%20SELECT/2.9%20Operator%20BETWEEN)
