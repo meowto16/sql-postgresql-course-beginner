@@ -21,3 +21,4 @@
   - [2.1 Полная выборка](./docs/2.%20Simple%20Queries%20with%20SELECT/2.1%20Full%20sample)
   - [2.2 Выборка и элементарные арифметические операции](./docs/2.%20Simple%20Queries%20with%20SELECT/2.2%20Sampling%20and%20elementary%20arithmetic%20operations)
   - [2.3 Оператор DISTINCT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.3%20Distinct)
+  - [2.4 Оператор COUNT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.4%20Count)
