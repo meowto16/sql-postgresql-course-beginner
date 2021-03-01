@@ -19,3 +19,4 @@
   - [1.11 Создаем Northwind](./docs/1.%20Introduction%20to%20SQL/1.11%20Create%20Northwind%20Database)
 - [2. Простые запросы с SELECT](./docs/2.%20Simple%20Queries%20with%20SELECT)
   - [2.1 Полная выборка](./docs/2.%20Simple%20Queries%20with%20SELECT/2.1%20Full%20sample)
+  - [2.2 Выборка и элементарные арифметические операции](./docs/2.%20Simple%20Queries%20with%20SELECT/2.2%20Sampling%20and%20elementary%20arithmetic%20operations)
