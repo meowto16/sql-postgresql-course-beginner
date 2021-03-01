@@ -23,3 +23,4 @@
   - [2.3 Оператор DISTINCT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.3%20Distinct)
   - [2.4 Оператор COUNT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.4%20Count)
   - [2.5 Домашняя работа 1](./docs/2.%20Simple%20Queries%20with%20SELECT/2.5%20Homework%201)
+  - [2.6 Домашняя работа 1 (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.6%20Homework%201%20(answers))
