@@ -41,3 +41,4 @@
   - [2.19 Оператор HAVING](./docs/2.%20Simple%20Queries%20with%20SELECT/2.19%20Operator%20HAVING)
   - [2.20 Оператор UNION, INTERCEPT, EXCEPT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.20%20Operators%20UNION,%20INTERSECT,%20EXCEPT)
   - [2.21 Домашняя работа 3. Простые выборки](./docs/2.%20Simple%20Queries%20with%20SELECT/2.21%20Homework%203)
+  - [2.22 Домашняя работа 3. Простые выборки (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.22%20Homework%203%20(answers))
