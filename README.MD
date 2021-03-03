@@ -44,3 +44,4 @@
   - [2.22 Домашняя работа 3. Простые выборки (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.22%20Homework%203%20(answers))
 - [3. Соединения JOINS](./docs/3.%20Joins)
   - [3.1 Знакомство с соединениями JOINS](./docs/3.%20Joins/3.1%20Getting%20started%20with%20joins)
+  - [3.2 Соединение INNER JOIN](./docs/3.%20Joins/3.2%20Join.%20INNER%20JOIN)
