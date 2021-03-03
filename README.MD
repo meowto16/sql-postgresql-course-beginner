@@ -42,3 +42,5 @@
   - [2.20 Оператор UNION, INTERCEPT, EXCEPT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.20%20Operators%20UNION,%20INTERSECT,%20EXCEPT)
   - [2.21 Домашняя работа 3. Простые выборки](./docs/2.%20Simple%20Queries%20with%20SELECT/2.21%20Homework%203)
   - [2.22 Домашняя работа 3. Простые выборки (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.22%20Homework%203%20(answers))
+- [3. Соединения JOINS](./docs/3.%20Joins)
+  - [3.1 Знакомство с соединениями JOINS](./docs/3.%20Joins/3.1%20Getting%20started%20with%20joins)
