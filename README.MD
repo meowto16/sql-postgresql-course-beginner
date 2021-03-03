@@ -45,3 +45,5 @@
 - [3. Соединения JOINS](./docs/3.%20Joins)
   - [3.1 Знакомство с соединениями JOINS](./docs/3.%20Joins/3.1%20Getting%20started%20with%20joins)
   - [3.2 Соединение INNER JOIN](./docs/3.%20Joins/3.2%20Join.%20INNER%20JOIN)
+  - [3.3 Соединение LEFT, RIGHT JOIN](./docs/3.%20Joins/3.3%20Join.%20LEFT,%20RIGHT%20JOIN)
+  - [3.4 Соединение SELF JOIN](./docs/3.%20Joins/3.4%20Join.%20SELF%20JOIN)
