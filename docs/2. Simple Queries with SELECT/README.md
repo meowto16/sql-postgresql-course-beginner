@@ -17,3 +17,4 @@
 - [2.15 Оператор LIKE](2.15%20Operator%20LIKE)
 - [2.16 Оператор LIMIT](2.16%20Operator%20LIMIT)
 - [2.17 Проверка ON NULL](2.17%20Check%20ON%20NULL)
+- [2.18 Оператор GROUP BY](2.18%20Operator%20GROUP%20BY)
