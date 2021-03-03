@@ -19,4 +19,5 @@
 - [2.17 Проверка ON NULL](2.17%20Check%20ON%20NULL)
 - [2.18 Оператор GROUP BY](2.18%20Operator%20GROUP%20BY)
 - [2.19 Оператор HAVING](2.19%20Operator%20HAVING)
-- [2.19 Операторы UNION, INTERSECT, EXCEPT](2.20%20Operators%20UNION,%20INTERSECT,%20EXCEPT)
+- [2.20 Операторы UNION, INTERSECT, EXCEPT](2.20%20Operators%20UNION,%20INTERSECT,%20EXCEPT)
+- [2.21 Домашняя работа 3. Простые выборки](2.21%20Homework%203)
