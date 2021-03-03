@@ -35,4 +35,5 @@
   - [2.13 Домашняя работа 2. Простые выборки](./docs/2.%20Simple%20Queries%20with%20SELECT/2.13%20Homework%202)
   - [2.14 Домашняя работа 2. Простые выборки (ответы)](./docs/2.%20Simple%20Queries%20with%20SELECT/2.14%20Homework%202%20(answers))
   - [2.15 Оператор LIKE](./docs/2.%20Simple%20Queries%20with%20SELECT/2.15%20Operator%20LIKE)
-  - [2.15 Оператор LIMIT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.16%20Operator%20LIMIT)
+  - [2.16 Оператор LIMIT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.16%20Operator%20LIMIT)
+  - [2.17 Проверка ON NULL](./docs/2.%20Simple%20Queries%20with%20SELECT/2.17%20Check%20ON%20NULL)
