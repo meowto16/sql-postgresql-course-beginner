@@ -39,3 +39,4 @@
   - [2.17 Проверка ON NULL](./docs/2.%20Simple%20Queries%20with%20SELECT/2.17%20Check%20ON%20NULL)
   - [2.18 Оператор GROUP BY](./docs/2.%20Simple%20Queries%20with%20SELECT/2.18%20Operator%20GROUP%20BY)
   - [2.19 Оператор HAVING](./docs/2.%20Simple%20Queries%20with%20SELECT/2.19%20Operator%20HAVING)
+  - [2.20 Оператор UNION, INTERCEPT, EXCEPT](./docs/2.%20Simple%20Queries%20with%20SELECT/2.20%20Operators%20UNION,%20INTERSECT,%20EXCEPT)
