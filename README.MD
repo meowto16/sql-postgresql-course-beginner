@@ -49,3 +49,4 @@
   - [3.4 Соединение SELF JOIN](./docs/3.%20Joins/3.4%20Join.%20SELF%20JOIN)
   - [3.5 Соединение. USING & NATURAL JOIN](./docs/3.%20Joins/3.5%20Join.%20USING%20&%20NATURAL%20JOIN)
   - [3.6 Соединение. AS](./docs/3.%20Joins/3.6%20Join.%20AS)
+  - [3.7 Домашняя работа 1. Соединения](./docs/3.%20Joins/3.7%20Homework%201)
