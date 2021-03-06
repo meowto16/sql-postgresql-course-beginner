@@ -57,3 +57,5 @@
   - [4.3 Подзапросы с квантификаторами ANY, ALL](docs/4.%20Subqueries/4.3%20Quantifiers.%20ANY,%20ALL)
   - [4.4 Домашняя работа 1. Подзапросы](docs/4.%20Subqueries/4.4%20Homework%201.%20Subqueries)
   - [4.5 Домашняя работа 1. Подзапросы (ответы)](docs/4.%20Subqueries/4.5%20Homework%201.%20Subqueries%20(answers))
+- [5. Управляем БД и таблицами](./docs/5.%20Managing%20databases%20and%20tables)
+  - [5.1 Управляем таблицами](./docs/5.%20Managing%20databases%20and%20tables/5.1%20Managing%20tables)
