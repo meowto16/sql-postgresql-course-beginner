@@ -52,3 +52,5 @@
   - [3.7 Домашняя работа 1. Соединения](./docs/3.%20Joins/3.7%20Homework%201)
   - [3.8 Домашняя работа 1. Соединения (ответы)](./docs/3.%20Joins/3.8%20Homework%201%20(answers))
 - [4. Подзапросы](./docs/4.%20Subqueries)
+  - [4.1 Введение в подзапросы](./docs/4.%20Subqueries/4.1%20Introduction%20into%20subqueries)
+  - [4.2 Оператор EXISTS](docs/4.%20Subqueries/4.2%20Operator%20EXISTS)
