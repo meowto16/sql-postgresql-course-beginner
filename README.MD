@@ -54,3 +54,4 @@
 - [4. Подзапросы](./docs/4.%20Subqueries)
   - [4.1 Введение в подзапросы](./docs/4.%20Subqueries/4.1%20Introduction%20into%20subqueries)
   - [4.2 Оператор EXISTS](docs/4.%20Subqueries/4.2%20Operator%20EXISTS)
+  - [4.3 Подзапросы с квантификаторами ANY, ALL](docs/4.%20Subqueries/4.3%20Quantifiers.%20ANY,%20ALL)
