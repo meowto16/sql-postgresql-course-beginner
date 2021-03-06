@@ -52,7 +52,7 @@ WHERE table_name = 'chair'
 Удалим `CONSTRAINT`
 ```sql
 ALTER TABLE
-DROP CONSTRAIN chair_chair_id_key
+DROP CONSTRAINT chair_chair_id_key
 ```
 
 Добавим `CONSTRAINT` существующей таблице
