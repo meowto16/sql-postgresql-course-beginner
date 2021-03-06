@@ -60,3 +60,4 @@
 - [5. Управляем БД и таблицами](./docs/5.%20Managing%20databases%20and%20tables)
   - [5.1 Управляем таблицами](./docs/5.%20Managing%20databases%20and%20tables/5.1%20Managing%20tables)
   - [5.2 Домашняя работа 1. Управляем таблицами](./docs/5.%20Managing%20databases%20and%20tables/5.2%20Homework%201.%20Managing%20tables)
+  - [5.3 Домашняя работа 1. Управляем таблицами (ответы)](./docs/5.%20Managing%20databases%20and%20tables/5.3%20Homework%201.%20Managing%20tables%20(answers))
