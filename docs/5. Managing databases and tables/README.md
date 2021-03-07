@@ -12,3 +12,4 @@
 - [5.10 INSERT](./5.10%20INSERT)
 - [5.11 UPDATE, DELETE, RETURNING](./5.11%20UPDATE,%20DELETE,%20RETURNING)
 - [5.12 Домашняя работа 2. DDL](./5.12%20Homework%202.%20DDL)
+- [5.13 Домашняя работа 2. DDL (ответы)](./5.13%20Homework%202.%20DDL%20(answers))
