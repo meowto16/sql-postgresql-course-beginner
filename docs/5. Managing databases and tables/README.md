@@ -9,3 +9,4 @@
 - [5.7 DEFAULT. Ограничения](./5.7%20Constraint.%20Default)
 - [5.8 Sequences. Последовательности](./5.8%20Sequences)
 - [5.9 Sequences. Последовательности и таблицы](./5.9%20Sequences%20and%20tables)
+- [5.10 INSERT](./5.10%20INSERT)
