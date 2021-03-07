@@ -8,3 +8,4 @@
 - [5.6 CHECK. Логические ограничения](./5.6%20Logical%20constraint.%20Check)
 - [5.7 DEFAULT. Ограничения](./5.7%20Constraint.%20Default)
 - [5.8 Sequences. Последовательности](./5.8%20Sequences)
+- [5.9 Sequences. Последовательности и таблицы](./5.9%20Sequences%20and%20tables)
