@@ -73,3 +73,4 @@
   - [5.13 Домашняя работа 2. DDL (ответы)](./docs/5.%20Managing%20databases%20and%20tables/5.13%20Homework%202.%20DDL%20(answers))
 - [6. Проектирование БД](./docs/6.%20Database%20design)
   - [6.1 Введение в процесс проектирования](./docs/6.%20Database%20design/6.1%20Introduction%20into%20design%20process)
+  - [6.2 Базовые рекомендации](./docs/6.%20Database%20design/6.2%20Basic%20recommendations)
