@@ -77,3 +77,4 @@
   - [6.3 Нормализация. Нормальная форма (НФ)](./docs/6.%20Database%20design/6.3%20Normalization)
 - [7. Представления (Views)](./docs/7.%20Views)
   - [7.1 Введение в представления](./docs/7.%20Views/7.1%20Introduction%20into%20views)
+  - [7.2 Создание представлений](./docs/7.%20Views/7.2%20Creating%20views)
