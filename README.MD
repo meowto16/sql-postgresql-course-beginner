@@ -71,3 +71,5 @@
   - [5.11 UPDATE, DELETE, RETURNING](./docs/5.%20Managing%20databases%20and%20tables/5.11%20UPDATE,%20DELETE,%20RETURNING)
   - [5.12 Домашняя работа 2. DDL](./docs/5.%20Managing%20databases%20and%20tables/5.12%20Homework%202.%20DDL)
   - [5.13 Домашняя работа 2. DDL (ответы)](./docs/5.%20Managing%20databases%20and%20tables/5.13%20Homework%202.%20DDL%20(answers))
+- [6. Проектирование БД](./docs/6.%20Database%20design)
+  - [6.1 Введение в процесс проектирования](./docs/6.%20Database%20design/6.1%20Introduction%20into%20design%20process)
