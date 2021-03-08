@@ -74,3 +74,4 @@
 - [6. Проектирование БД](./docs/6.%20Database%20design)
   - [6.1 Введение в процесс проектирования](./docs/6.%20Database%20design/6.1%20Introduction%20into%20design%20process)
   - [6.2 Базовые рекомендации](./docs/6.%20Database%20design/6.2%20Basic%20recommendations)
+  - [6.3 Нормализация. Нормальная форма (НФ)](./docs/6.%20Database%20design/6.3%20Normalization)
