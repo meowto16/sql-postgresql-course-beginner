@@ -81,3 +81,4 @@
   - [7.3 Обновляемые представления](./docs/7.%20Views/7.3%20Updatable%20views)
   - [7.4 Опция CHECK](./docs/7.%20Views/7.4%20Check%20Option)
   - [7.5 Домашняя работа 1. Представления](./docs/7.%20Views/7.5%20Homework%201.%20Views)
+  - [7.6 Домашняя работа 1. Представления (ответы)](./docs/7.%20Views/7.6%20Homework%201.%20Views%20(answers))
