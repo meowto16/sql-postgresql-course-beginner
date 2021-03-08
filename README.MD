@@ -80,3 +80,4 @@
   - [7.2 Создание представлений](./docs/7.%20Views/7.2%20Creating%20views)
   - [7.3 Обновляемые представления](./docs/7.%20Views/7.3%20Updatable%20views)
   - [7.4 Опция CHECK](./docs/7.%20Views/7.4%20Check%20Option)
+  - [7.5 Домашняя работа 1. Представления](./docs/7.%20Views/7.5%20Homework%201.%20Views)
