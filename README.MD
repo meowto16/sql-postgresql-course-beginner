@@ -84,3 +84,4 @@
   - [7.6 Домашняя работа 1. Представления (ответы)](./docs/7.%20Views/7.6%20Homework%201.%20Views%20(answers))
 - [8. Логические операторы](./docs/8.%20Logic%20operators)
   - [8.1 Логические операторы. CASE WHEN](./docs/8.%20Logic%20operators/8.1%20Logic.%20CASE%20WHEN)
+  - [8.2 Логические операторы. COALESCE & NULLIF](./docs/8.%20Logic%20operators/8.2%20Logic.%20COALESCE%20&%20NULLIF)
