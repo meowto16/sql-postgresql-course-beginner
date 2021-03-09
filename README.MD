@@ -82,3 +82,5 @@
   - [7.4 Опция CHECK](./docs/7.%20Views/7.4%20Check%20Option)
   - [7.5 Домашняя работа 1. Представления](./docs/7.%20Views/7.5%20Homework%201.%20Views)
   - [7.6 Домашняя работа 1. Представления (ответы)](./docs/7.%20Views/7.6%20Homework%201.%20Views%20(answers))
+- [8. Логические операторы](./docs/8.%20Logic%20operators)
+  - [8.1 Логические операторы. CASE WHEN](./docs/8.%20Logic%20operators/8.1%20Logic.%20CASE%20WHEN)
