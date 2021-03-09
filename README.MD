@@ -86,3 +86,4 @@
   - [8.1 Логические операторы. CASE WHEN](./docs/8.%20Logic%20operators/8.1%20Logic.%20CASE%20WHEN)
   - [8.2 Логические операторы. COALESCE & NULLIF](./docs/8.%20Logic%20operators/8.2%20Logic.%20COALESCE%20&%20NULLIF)
   - [8.3 Логические операторы. COALESCE & NULLIF (практика)](./docs/8.%20Logic%20operators/8.3%20Logic.%20COALESCE%20&%20NULLIF%20(Practice))
+  - [8.4 Домашняя работа 1. Логические операторы](./docs/8.%20Logic%20operators/8.4%20Homework%201.%20Logic%20operators)
