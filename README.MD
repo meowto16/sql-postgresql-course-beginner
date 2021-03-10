@@ -88,3 +88,7 @@
   - [8.3 Логические операторы. COALESCE & NULLIF (практика)](./docs/8.%20Logic%20operators/8.3%20Logic.%20COALESCE%20&%20NULLIF%20(Practice))
   - [8.4 Домашняя работа 1. Логические операторы](./docs/8.%20Logic%20operators/8.4%20Homework%201.%20Logic%20operators)
   - [8.5 Домашняя работа 1. Логические операторы (ответы)](./docs/8.%20Logic%20operators/8.5%20Homework%201.%20Logic%20operators%20(answers))
+- [9. Функции SQL и PL_pgSQL](./docs/9.%20Functions)
+  - [9.1 Введение в функции](./docs/9.%20Functions/9.1%20Introduction%20into%20functions)
+  - [9.2 Первая функция](./docs/9.%20Functions/9.2%20First%20function)
+  - [9.3 Скалярные функции](./docs/9.%20Functions/9.3%20Scalar%20functions)
