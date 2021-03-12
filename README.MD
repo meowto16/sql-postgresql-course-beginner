@@ -92,3 +92,4 @@
   - [9.1 Введение в функции](./docs/9.%20Functions/9.1%20Introduction%20into%20functions)
   - [9.2 Первая функция](./docs/9.%20Functions/9.2%20First%20function)
   - [9.3 Скалярные функции](./docs/9.%20Functions/9.3%20Scalar%20functions)
+  - [9.4 IN, OUT, DEFAULT](./docs/9.%20Functions/9.4%20IN,%20OUT,%20DEFAULT)
