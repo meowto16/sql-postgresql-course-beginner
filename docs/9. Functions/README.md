@@ -4,3 +4,4 @@
 - [9.2 Первая функция](./9.2%20First%20function)
 - [9.3 Скалярные функции](./9.3%20Scalar%20functions)
 - [9.4 IN, OUT, DEFAULT](./9.4%20IN,%20OUT,%20DEFAULT)
+- [9.5 Возврат множества строк](./9.5%20Returning%20multiple%20lines)

@@ -11,7 +11,7 @@
 CREATE OR REPLACE FUNCTION get_product_price_by_name(prod_name varchar) RETURNS real AS $$
     SELECT unit_price
     FROM products
-    WHERE product_name - prod_name
+    WHERE product_name = prod_name
 $$ LANGUAGE sql
 ```
 
