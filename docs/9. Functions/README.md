@@ -10,3 +10,4 @@
 - [9.8 Объявление переменных](./9.8%20Declaring%20variables)
 - [9.9 Условия PL/pgSQL](./9.9%20Conditions)
 - [9.10 Циклы PL/pgSQL](./9.10%20Loops)
+- [9.11 RETURN NEXT](./9.11%20RETURN%20NEXT)
