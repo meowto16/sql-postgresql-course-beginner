@@ -96,3 +96,4 @@
   - [9.5 Возврат множества строк](./docs/9.%20Functions/9.5%20Returning%20multiple%20lines)
   - [9.6 Введение в PL_pgSQL](./docs/9.%20Functions/9.6%20Introduction%20into%20PL_pgSQL)
   - [9.7 Возврат и присвоение](./docs/9.%20Functions/9.7%20Return%20and%20assignment)
+  - [9.8 Объявление переменных](./docs/9.%20Functions/9.8%20Declaring%20variables)
