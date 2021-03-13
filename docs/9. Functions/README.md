@@ -9,3 +9,4 @@
 - [9.7 Возврат и присвоение](./9.7%20Return%20and%20assignment)
 - [9.8 Объявление переменных](./9.8%20Declaring%20variables)
 - [9.9 Условия PL/pgSQL](./9.9%20Conditions)
+- [9.10 Циклы PL/pgSQL](./9.10%20Loops)
