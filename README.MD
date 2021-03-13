@@ -102,3 +102,8 @@
   - [9.11 RETURN NEXT](./docs/9.%20Functions/9.11%20RETURN%20NEXT)
   - [9.12 Домашняя работа 1. Функции](./docs/9.%20Functions/9.12%20Homework%201.%20Functions)
   - [9.13 Домашняя работа 1. Функции (ответы)](./docs/9.%20Functions/9.13%20Homework%201.%20Functions%20(answers))
+- [10. Ошибки и их обработка](./docs/10.%20Errors%20and%20their%20handling)
+  - [10.1 Введение в ошибки, обработку ошибок](./docs/10.%20Errors%20and%20their%20handling/10.1%20Introduction%20into%20errors)
+  - [10.2 RAISE. Практика](./docs/10.%20Errors%20and%20their%20handling/10.2%20RAISE.%20Practice)
+  - [10.3 Домашняя работа 1. Обработка ошибок](./docs/10.%20Errors%20and%20their%20handling/10.3%20Homework%201.%20Errors%20handling)
+  - [10.4 Домашняя работа 1. Обработка ошибок (ответы)](./docs/10.%20Errors%20and%20their%20handling/10.4%20Homework%201.%20Errors%20handling%20(answers))
