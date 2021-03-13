@@ -101,3 +101,4 @@
   - [9.10 Циклы PL/pgSQL](./docs/9.%20Functions/9.10%20Loops)
   - [9.11 RETURN NEXT](./docs/9.%20Functions/9.11%20RETURN%20NEXT)
   - [9.12 Домашняя работа 1. Функции](./docs/9.%20Functions/9.12%20Homework%201.%20Functions)
+  - [9.13 Домашняя работа 1. Функции (ответы)](./docs/9.%20Functions/9.13%20Homework%201.%20Functions%20(answers))
