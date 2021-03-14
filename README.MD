@@ -118,3 +118,8 @@
   - [12.5 Построение простого индекса и индекса по двум колонкам](./docs/12.%20Indexes/12.5%20Building%20a%20simple%20index%20and%20two-column%20index)
   - [12.6 Индекс по выражениям](./docs/12.%20Indexes/12.6%20Expression%20indexes)
   - [12.7 Сложный индекс для поиска по тексту](./docs/12.%20Indexes/12.7%20Complex%20index%20for%20text%20search)
+- [13. Массивы](./docs/13.%20Arrays)
+  - [13.1 Введение в массивы](./docs/13.%20Arrays/13.1%20Introduction%20into%20arrays)
+  - [13.2 Инициализация, слайсы](./docs/13.%20Arrays/13.2%20Initialization,%20slices)
+  - [13.3 Массивы и операторы](./docs/13.%20Arrays/13.3%20Arrays%20and%20operators)
+  - [13.4 VARIADIC и FOREACH](./docs/13.%20Arrays/13.4%20VARIADIC%20and%20FOREACH)  
