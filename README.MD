@@ -114,3 +114,4 @@
   - [12.1 Введение в индексы](./docs/12.%20Indexes/12.1%20Introduction%20into%20indexes)
   - [12.2 Методы сканирования](./docs/12.%20Indexes/12.2%20Scanning%20methods)
   - [12.3 Типы индексов](./docs/12.%20Indexes/12.3%20Index%20types)
+  - [12.4 EXPLAIN, ANALYZE](./docs/12.%20Indexes/12.4%20EXPLAIN,%20ANALYZE)
