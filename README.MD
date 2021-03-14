@@ -116,3 +116,4 @@
   - [12.3 Типы индексов](./docs/12.%20Indexes/12.3%20Index%20types)
   - [12.4 EXPLAIN, ANALYZE](./docs/12.%20Indexes/12.4%20EXPLAIN,%20ANALYZE)
   - [12.5 Построение простого индекса и индекса по двум колонкам](./docs/12.%20Indexes/12.5%20Building%20a%20simple%20index%20and%20two-column%20index)
+  - [12.6 Индекс по выражениям](./docs/12.%20Indexes/12.6%20Expression%20indexes)
