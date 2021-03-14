@@ -112,3 +112,4 @@
   - [11.2 Приведение типов данных на практике](./docs/11.%20Cast/11.2%20Cast%20practice)
 - [12. Индексы](./docs/12.%20Indexes)
   - [12.1 Введение в индексы](./docs/12.%20Indexes/12.1%20Introduction%20into%20indexes)
+  - [12.2 Методы сканирования](./docs/12.%20Indexes/12.2%20Scanning%20methods)
