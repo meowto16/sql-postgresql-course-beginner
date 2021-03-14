@@ -107,3 +107,6 @@
   - [10.2 RAISE. Практика](./docs/10.%20Errors%20and%20their%20handling/10.2%20RAISE.%20Practice)
   - [10.3 Домашняя работа 1. Обработка ошибок](./docs/10.%20Errors%20and%20their%20handling/10.3%20Homework%201.%20Errors%20handling)
   - [10.4 Домашняя работа 1. Обработка ошибок (ответы)](./docs/10.%20Errors%20and%20their%20handling/10.4%20Homework%201.%20Errors%20handling%20(answers))
+- [11. Приведение типов данных](./docs/11.%20Cast)
+  - [11.1 Введение в преобразование типов данных](./docs/11.%20Cast/11.1%20Introduction%20into%20cast)
+  - [11.2 Приведение типов данных на практике](./docs/11.%20Cast/11.2%20Cast%20practice)
