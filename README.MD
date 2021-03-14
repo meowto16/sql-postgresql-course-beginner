@@ -121,4 +121,5 @@
 - [13. Массивы](./docs/13.%20Arrays)
   - [13.1 Введение в массивы](./docs/13.%20Arrays/13.1%20Introduction%20into%20arrays)
   - [13.2 Инициализация, слайсы](./docs/13.%20Arrays/13.2%20Initialization,%20slices)
-  - [13.2 Массивы и операторы](./docs/13.%20Arrays/13.3%20Arrays%20and%20operators)
+  - [13.3 Массивы и операторы](./docs/13.%20Arrays/13.3%20Arrays%20and%20operators)
+  - [13.4 VARIADIC и FOREACH](./docs/13.%20Arrays/13.4%20VARIADIC%20and%20FOREACH)  
