@@ -120,3 +120,4 @@
   - [12.7 Сложный индекс для поиска по тексту](./docs/12.%20Indexes/12.7%20Complex%20index%20for%20text%20search)
 - [13. Массивы](./docs/13.%20Arrays)
   - [13.1 Введение в массивы](./docs/13.%20Arrays/13.1%20Introduction%20into%20arrays)
+  - [13.2 Инициализация, слайсы](./docs/13.%20Arrays/13.2%20Initialization,%20slices)
