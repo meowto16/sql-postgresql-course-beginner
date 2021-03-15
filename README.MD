@@ -130,3 +130,4 @@
 - [14. Пользовательские типы данных](./docs/14.%20Custom%20types)
   - [14.1 Домены](./docs/14.%20Custom%20types/14.1%20Domains)
   - [14.2 Составные типы](./docs/14.%20Custom%20types/14.2%20Composite%20types)
+  - [14.3 Перечисление (ENUM)](./docs/14.%20Custom%20types/14.3%20ENUM)
