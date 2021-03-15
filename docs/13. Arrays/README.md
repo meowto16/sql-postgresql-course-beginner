@@ -5,3 +5,4 @@
 - [13.3 Массивы и операторы](./13.3%20Arrays%20and%20operators)
 - [13.4 VARIADIC и FOREACH](./13.4%20VARIADIC%20and%20FOREACH)
 - [13.5 Домашняя работа 1. Массивы](./13.5%20Homework%201.%20Arrays)
+- [13.6 Домашняя работа 1. Массивы (ответы)](./13.6%20Homework%201.%20Arrays%20(answers))
