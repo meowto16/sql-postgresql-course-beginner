@@ -123,3 +123,7 @@
   - [13.2 Инициализация, слайсы](./docs/13.%20Arrays/13.2%20Initialization,%20slices)
   - [13.3 Массивы и операторы](./docs/13.%20Arrays/13.3%20Arrays%20and%20operators)
   - [13.4 VARIADIC и FOREACH](./docs/13.%20Arrays/13.4%20VARIADIC%20and%20FOREACH)  
+  - [13.5 Домашняя работа 1. Массивы](./docs/13.%20Arrays/13.5%20Homework%201.%20Arrays)  
+  - [13.6 Домашняя работа 1. Массивы (ответы)](./docs/13.%20Arrays/13.6%20Homework%201.%20Arrays%20(answers))  
+  - [13.7 Домашняя работа 2. Массивы](./docs/13.%20Arrays/13.7%20Homework%202.%20Arrays)  
+  - [13.8 Домашняя работа 2. Массивы (ответы)](./docs/13.%20Arrays/13.8%20Homework%202.%20Arrays%20(answers))  
