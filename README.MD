@@ -133,3 +133,5 @@
   - [14.3 Перечисление (ENUM)](./docs/14.%20Custom%20types/14.3%20ENUM)
   - [14.4 Домашняя работа 1. Пользовательские типы](./docs/14.%20Custom%20types/14.4%20Homework%201.%20Custom%20types)
   - [14.5 Домашняя работа 1. Пользовательские типы (ответы)](./docs/14.%20Custom%20types/14.5%20Homework%201.%20Custom%20types%20(answers))
+- [15. Продвинутая группировка](./docs/15.%20Advanced%20group)
+  - [15.1 Введение в продвинутую группировку](./docs/15.%20Advanced%20group/15.1%20Introduction%20into%20advanced%20group)
